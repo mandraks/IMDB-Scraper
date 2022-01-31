@@ -1,5 +1,10 @@
 #!/usr/bin/python
-
+#----------------------------------------------------------------------------
+# Created By  : Daniel Ortiz
+# Created Date: Jan 2022
+# Project URL: https://github.com/mandrak
+# version ='1.0'
+# ---------------------------------------------------------------------------
 import bs4 as bs
 import requests
 import matplotlib.pyplot as plt
